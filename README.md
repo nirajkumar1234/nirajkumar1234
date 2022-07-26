@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nirajkumar1234
 - 👀 I’m interested in reading biography's , coding , travelling etc.
-- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python.
 - 📫 How to reach me ?
 nirajkumarchaurasiya6@gmail.com  by email.
